@@ -19,14 +19,19 @@ Here are some ideas to get you started:
 - [Google Scholar](https://scholar.google.com/citations?user=9ak_2eQAAAAJ&hl=it&authuser=1)
 - [Research Gate](https://www.researchgate.net/profile/Andrea_Pizzetti?ev=hdr_xprf&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoiaG9tZSIsInBvc2l0aW9uIjoiZ2xvYmFsSGVhZGVyIn19)
 
-Render Engine
+Render Engines
 -
 - [abram](https://github.com/andrepiz/abram) Physical-based rendering tool in MATLAB for planets and moons. 
 - [corto](https://github.com/MattiaPugliatti/corto) Python interfaces and scripts for programmatic call of renderings in Blender.
 
 Space Images
 -
-- [amiextractor](https://github.com/andrepiz/amiextractor) Extraction, correction and visualization of real Moon images acquired by the AMIE camera on board of the SMART-1 mission.
+- [pdspro](https://github.com/andrepiz/pdspro) Extraction, correction and processing of images from PDS raw data files (IMG, FITS, etc...)
+- [amiextractor](https://github.com/andrepiz/amiextractor) Extraction, correction and visualization of the Moon images acquired by the AMIE camera on board of the SMART-1 mission.
+
+Vision-Based Navigation
+-
+- [vbn](https://github.com/andrepiz/vbn) Kalman filters and propagators in a object-oriented architecture plus celestial triangulation, lateration and multilateration algorithms.
 
 Computer Vision
 -
